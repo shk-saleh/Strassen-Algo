@@ -20,8 +20,7 @@ const Canvas = () => {
 
   return (
     <div className="min-h-screen p-8 text-center">
-      <h1 className="text-3xl font-bold mb-6">Matrix Multiplication Timer</h1>
-
+      <h1 className="text-3xl font-bold pt-20 mb-6">Matrix Multiplication Visualizer</h1>
       <div className="flex justify-center gap-4 mb-4">
         <input
           type="number"
