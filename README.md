@@ -12,22 +12,16 @@ Extra C++ implementation (inside the server file)
 2. Perform multiplication using:
 3. Traditional method
 4. Strassen Algorithm
-5. 
+
 Show computation time for both methods
 
 📌 How to Run
-Clone the repository
 
-Navigate to client and run:
+1. Clone the repository
+2. Navigate to client and run:
+<code>npm install && npm start</code>
+3. Navigate to server and run:
+<code>npm install && node index.js</code>
 
-bash
-Copy
-Edit
-npm install && npm start
-Navigate to server and run:
-
-bash
-Copy
-Edit
-npm install && node index.js
-Ensure C++ environment is set up to compile and run strassen.cpp
+If you just want to test algo in compiler you can text cpp file by just copying the code from this repo.
+**Note: C++ environment is set up to compile and run strassen.cpp**
